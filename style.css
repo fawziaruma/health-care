@@ -1,0 +1,89 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav-btn{
+    background-color: green;
+    outline: none;
+    color: white;
+    border: none;
+    padding: 10px 17px;
+    border-radius: 5px;
+}
+.navbar-nav .nav-item{
+    padding-left: 20px;
+}
+.h{
+    border: 1px solid black;
+    padding:0 7px;
+    background-color: green;
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+    border: none;
+    border-radius: 3px;
+}
+/* ........banner........ */
+.carousel-item img{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 90vh;
+}
+.carousel-item h5{
+    font-size: 60px;
+}
+.carousel-caption{
+    top: 120px;
+}
+.banner2 img{
+    height: 350px;
+    width: 370px;
+    border-radius: 3px;
+}
+/* .........our doctor........ */
+#our-doctor{
+    margin-top: 90px;
+}
+#latest-news{
+    background-color: #eeee;
+    margin-top: 90px;
+    padding-bottom: 50px;
+}
+.appoinment{
+    margin-top: 90px;
+}
+/* ........footer....... */
+.foo{
+    margin-top: 50px;
+
+}
+.foo h4{
+    font-size: 25px;
+    font-weight: 700;
+}
+.foo .fa-solid{
+    border: 1px solid black;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+}
+.foo-last{
+    border-top: 1px solid grey;
+    padding-top: 10px;
+}
+.foo-last p{
+    font-weight: 600;
+}
+.fa{
+    color: green;
+}
+.top-header{
+    border-bottom: 1px solid rgb(151, 149, 149);
+}
